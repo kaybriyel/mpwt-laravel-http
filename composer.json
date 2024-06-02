@@ -1,0 +1,18 @@
+{
+    "name": "mpwt/http",
+    "description": "MPWT Standard Http Handling",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MPWT\\Http\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kay Briyel"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
